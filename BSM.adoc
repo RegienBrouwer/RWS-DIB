@@ -1,0 +1,22 @@
+++++
+<style media="screen" type="text/css">
+pre.highlight {
+   clear: both;
+}
+</style>
+++++
+Eerste opzet BSM in Neo4j
+=========================
+
+== Een eerste test met gist
+
+=== Author: Regien Brouwer
+
+:Author:    Regien Brouwer
+:Email:     regien.brouwer@gmail.com
+:Date:      08 mei 2014
+:Revision:  0.1 - Eerste opzet
+
+== Meta model definitie
+
+
